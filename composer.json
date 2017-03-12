@@ -1,0 +1,15 @@
+{
+    "name": "shijosap/laravel-google-calendar-events",
+    "description": "Connect to google calendar and manage events",
+    "type": "laravel-package",
+    "require": {
+        "google/apiclient": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shijo Thomas",
+            "email": "shijo@alanee.com"
+        }
+    ]
+}
