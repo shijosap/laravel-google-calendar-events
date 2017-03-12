@@ -1,7 +1,11 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: shijosap
- * Date: 19-02-2017
- * Time: 03:59
- */
+namespace Shijosap\GoogleCalendarEvents;
+
+use Google_Client;
+
+class GoogleCalendarFactory {
+
+    public static function getCalendar($google_calendar_id){
+        return null;
+    }
+}
